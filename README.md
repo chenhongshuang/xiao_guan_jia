@@ -1,2 +1,2 @@
-# xiao_guan_jia
-小管家
+# xiaoyuanxiaoguanjia
+校园小管家
